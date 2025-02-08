@@ -19,3 +19,10 @@ The system ensures smooth data handling while improving accessibility and securi
 •	Report Generation: Generate reports for internal use and audits.
 
 •	Role-Based Access: Different access levels for administrators, officers, and other users.
+## Technologies Used
+•	Frontend: Tkinter
+
+•	Backend: SQL Server
+
+
+
